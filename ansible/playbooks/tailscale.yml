@@ -1,0 +1,5 @@
+---
+- name: Deploy Tailscale service
+  hosts: tailscale
+  roles:
+    - tailscale
