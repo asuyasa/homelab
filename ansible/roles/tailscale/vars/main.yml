@@ -1,0 +1,3 @@
+---
+tailscale_api_key: "{{ vault_tailscale_api_key }}"
+tailscale_tailnet: "{{ vault_tailscale_tailnet }}"
